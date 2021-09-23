@@ -9,7 +9,6 @@ Computer Science (of course!) Specifically:
 ## 🌱 I’m currently learning ...
  * MATLAB
  * Flask
- * C++
  * Computer Vision
 
 ## 💞️ I’m looking to collaborate on ...
