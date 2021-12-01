@@ -9,7 +9,7 @@ Computer Science (of course!) Specifically:
 ## 🌱 I’m currently learning ...
  * MATLAB
  * Flask
- * Computer Vision
+ * Swift
 
 ## 💞️ I’m looking to collaborate on ...
 Anything! If you find any of my work interesting, feel free to reach out to me.
